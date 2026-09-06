@@ -128,8 +128,8 @@ Standalone tools I built to stop depending on third-party providers for everyday
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mzeeshanaltaf&show_icons=true&count_private=true&hide_border=true&bg_color=1c1410&title_color=d97757&text_color=f5ede1&icon_color=d97757" alt="Zeeshan's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeshanaltaf&layout=compact&hide_border=true&bg_color=1c1410&title_color=d97757&text_color=f5ede1" alt="Top languages" width="38%" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=mzeeshanaltaf&show_icons=true&count_private=true&hide_border=true&bg_color=1c1410&title_color=d97757&text_color=f5ede1&icon_color=d97757" alt="Zeeshan's GitHub stats" width="48%" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=mzeeshanaltaf&layout=compact&hide_border=true&bg_color=1c1410&title_color=d97757&text_color=f5ede1" alt="Top languages" width="38%" />
 
 <img src="https://streak-stats.demolab.com/?user=mzeeshanaltaf&hide_border=true&background=1c1410&stroke=1c1410&ring=d97757&fire=d97757&currStreakLabel=f5ede1&sideNums=f5ede1&sideLabels=f5ede1&dates=8a7a68" alt="GitHub streak stats" width="90%" />
 

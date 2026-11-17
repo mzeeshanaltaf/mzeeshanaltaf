@@ -2,7 +2,7 @@
 
 # Zeeshan Altaf
 
-### AI Transformation Leader & Agentic AI Architect
+### AI Transformation Leader & AI Solutions Architect
 
 Building autonomous AI systems, agentic workflows & intelligent automation at **[92labs.ai](https://zeeshanai.cloud)**
 
